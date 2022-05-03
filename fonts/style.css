@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Eastman';
+    src: local('Eastman Thin'), local('Eastman-Thin'),
+        url('Eastman-Thin.woff2') format('woff2'),
+        url('Eastman-Thin.woff') format('woff'),
+        url('Eastman-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
